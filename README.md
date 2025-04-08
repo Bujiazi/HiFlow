@@ -24,3 +24,8 @@
 ---
 
 <strong>HiFlow is a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models.</strong>
+
+<div style="width: 100%; text-align: center; margin:auto;">
+    <img style="width:100%" src="__assets__/hiflow_teaser.png">
+</div>
+<br>
