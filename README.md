@@ -40,7 +40,15 @@
 </div>
 <br>
 
-## 💻 Method
+## 💻 Overview
+<div style="width: 100%; text-align: center; margin:auto;">
+    <img style="width:100%" src="__assets__/hiflow_pipeline.png">
+</div>
+<br>
+
+HiFlow constructs reference flow from low-resolution sampling trajectory to offer initiation alignment, direction alignment, and acceleration alignment, enabling flow-aligned high-resolution image generation. Specifically, HiFlow involves a cascade generation paradigm: First, a virtual reference flow is constructed in the high-resolution space based on the step-wise estimated clean samples of the low-resolution sampling flow. Then, during high-resolution synthesizing, the reference flow offers guidance from sampling initialization, denoising direction, and moving acceleration, aiding in achieving consistent low-frequency patterns, preserving structural features, and maintaining high-fidelity details. Such flow-aligned guidance from the sampling trajectory facilitates better merging of the structure synthesized at the low-resolution scale and the details synthesized at the high-resolution scale, enabling superior generation. 
+
+
 
 ## 🖋 News
 - Paper is available on arXiv!
