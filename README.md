@@ -40,4 +40,12 @@
 </div>
 <br>
 
+## 🖋 News
+- Paper is available on arXiv!
+
+## 🏗️ Todo
+- [ ] 🚀 Release the HiFlow code
+- [x] 🚀 Release paper
+
+
 
