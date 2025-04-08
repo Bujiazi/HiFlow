@@ -40,6 +40,8 @@
 </div>
 <br>
 
+## 💻 Method
+
 ## 🖋 News
 - Paper is available on arXiv!
 
