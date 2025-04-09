@@ -56,7 +56,7 @@ HiFlow constructs reference flow from low-resolution sampling trajectory to offe
 - Paper is available on arXiv!
 
 ## 🏗️ Todo
-- [ ] 🚀 Release the HiFlow code
+- [ ] 🚀 Release the HiFlow code and project page
 - [x] 🚀 Release paper
 
 
