@@ -21,6 +21,8 @@
 (*<b>Equal Contribution</b>)(<sup>†</sup><b>Corresponding Author</b>)
 <br><br>
 
+[![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232)   
+
 ---
 
 <strong>HiFlow is a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models.</strong>
