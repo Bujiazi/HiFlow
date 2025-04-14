@@ -59,5 +59,15 @@ HiFlow constructs reference flow from low-resolution sampling trajectory to offe
 - [ ] 🚀 Release the HiFlow code and project page
 - [x] 🚀 Release paper
 
+## 📎 Citation 
 
+If you find our work helpful, please consider giving a star ⭐ and citation 📝 
+```bibtex
+@article{bu2025hiflow,
+  title={HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance},
+  author={Bu, Jiazi and Ling, Pengyang and Zhou, Yujie and Zhang, Pan and Wu, Tong and Dong, Xiaoyi and Zang, Yuhang and Cao, Yuhang and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2504.06232},
+  year={2025}
+}
+```
 
