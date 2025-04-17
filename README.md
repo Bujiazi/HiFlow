@@ -37,6 +37,7 @@
 </details>
 </div>
 
+## 🎨 Gallery
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="__assets__/hiflow_teaser.png">
 </div>
