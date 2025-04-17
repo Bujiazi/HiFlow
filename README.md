@@ -24,9 +24,15 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/hiflow.github.io/)
 
-<div align="left">
+---
 
-HiFlow is a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models, leveraging flow-aligned guidance from three aspects: <strong> initialization alignment for low-frequency consistency, direction alignment for structure preservation, and acceleration alignment for detail fidelity.</strong>
+
+<strong>HiFlow is a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models.</strong>
+
+<div style="width: 100%; text-align: center; margin:auto;">
+    <img style="width:100%" src="__assets__/hiflow_teaser.png">
+</div>
+<br>
 
 <details><summary>📖 Click for the full abstract of HiFlow</summary>
 
@@ -38,10 +44,7 @@ HiFlow is a training-free and model-agnostic framework to unlock the resolution 
 
 </div>
 
-<div style="width: 100%; text-align: center; margin:auto;">
-    <img style="width:100%" src="__assets__/hiflow_teaser.png">
-</div>
-<br>
+
 
 ## 💻 Overview
 <div style="width: 100%; text-align: center; margin:auto;">
