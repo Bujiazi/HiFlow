@@ -51,13 +51,34 @@ HiFlow is a training-free and model-agnostic framework to unlock the resolution 
 
 HiFlow constructs reference flow from low-resolution sampling trajectory to offer initiation alignment, direction alignment, and acceleration alignment, enabling flow-aligned high-resolution image generation. Specifically, HiFlow involves a cascade generation paradigm: First, a virtual reference flow is constructed in the high-resolution space based on the step-wise estimated clean samples of the low-resolution sampling flow. Then, during high-resolution synthesizing, the reference flow offers guidance from sampling initialization, denoising direction, and moving acceleration, aiding in achieving consistent low-frequency patterns, preserving structural features, and maintaining high-fidelity details. Such flow-aligned guidance from the sampling trajectory facilitates better merging of the structure synthesized at the low-resolution scale and the details synthesized at the high-resolution scale, enabling superior generation. 
 
+## 🔧 Installations
+### Setup repository and conda environment
+
+```bash
+git clone https://github.com/Bujiazi/HiFlow.git
+cd HiFlow
+
+conda create -n hiflow python=3.10
+conda activate hiflow
+
+pip install -r requirements.txt
+```
+
+
+## 🎈 Quick Start
+### Perform high-resolution image generation with Flux.1.0-dev
+```bash
+python run_hiflow.py
+```
+Model downloading is automatic.
 
 
 ## 🖋 News
-- Paper is available on arXiv!
+- Code (V1.0) and project page are released! (2025.4.17)
+- Paper is available on arXiv! (2025.4.8)
 
 ## 🏗️ Todo
-- [ ] 🚀 Release the HiFlow code and project page
+- [x] 🚀 Release the HiFlow code and project page
 - [x] 🚀 Release paper
 
 ## 📎 Citation 
