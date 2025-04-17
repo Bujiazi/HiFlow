@@ -29,17 +29,21 @@
 
 <strong>HiFlow is a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models.</strong>
 
-<div style="width: 100%; text-align: center; margin:auto;">
-    <img style="width:100%" src="__assets__/hiflow_teaser.png">
-</div>
-<br>
-
 <details><summary>📖 Click for the full abstract of HiFlow</summary>
 
 <div align="left">
 
 > Text-to-image (T2I) diffusion/flow models have drawn considerable attention recently due to their remarkable ability to deliver flexible visual creations. Still, high-resolution image synthesis presents formidable challenges due to the scarcity and complexity of high-resolution content. To this end,  we present **HiFlow**, a training-free and model-agnostic framework to unlock the resolution potential of pre-trained flow models. Specifically, HiFlow establishes a virtual reference flow within the high-resolution space that effectively captures the characteristics of low-resolution flow information, offering guidance for high-resolution generation through three key aspects: initialization alignment for low-frequency consistency, direction alignment for structure preservation, and acceleration alignment for detail fidelity. By leveraging this flow-aligned guidance, HiFlow substantially elevates the quality of high-resolution image synthesis of T2I models and demonstrates versatility across their personalized variants. Extensive experiments validate HiFlow's superiority in achieving superior high-resolution image quality over current state-of-the-art methods.
 </details>
+</div>
+
+<div style="width: 100%; text-align: center; margin:auto;">
+    <img style="width:100%" src="__assets__/hiflow_teaser.png">
+</div>
+<br>
+
+<div align="center">
+👁️ For more visual results, go checkout our <a href="https://bujiazi.github.io/hiflow.github.io/" target="_blank">Project Page</a>.
 </div>
 
 </div>
