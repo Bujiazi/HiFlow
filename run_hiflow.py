@@ -43,4 +43,6 @@ images = pipe(
     upsampling_choice = "latent", # ["latent", "pixel"]
     flow_choice = "v_theta",
     generator=torch.Generator("cuda").manual_seed(seed),
-    )
+    )[0]
+
+images[0].save("hiflow.png")
