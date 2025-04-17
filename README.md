@@ -21,7 +21,8 @@
 (*<b>Equal Contribution</b>)(<sup>†</sup><b>Corresponding Author</b>)
 <br><br>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232)   
+[![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232) 
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/hiflow.github.io/)
 
 <div align="left">
 
