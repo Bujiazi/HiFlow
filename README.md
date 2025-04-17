@@ -7,7 +7,7 @@
     <a href="https://github.com/LPengYang/" target="_blank">Pengyang Ling*</a><sup></sup> | 
     <a href="https://github.com/YujieOuO" target="_blank">Yujie Zhou*</a><sup></sup> | 
     <a href="https://panzhang0212.github.io/" target="_blank">Pan Zhang<sup>†</sup></a><sup></sup> | 
-    <a href="https://wutong16.github.io/" target="_blank">Tong Wu</a><sup></sup> |
+    <a href="https://wutong16.github.io/" target="_blank">Tong Wu</a><sup></sup> <br>
     <a href="https://scholar.google.com/citations?user=FscToE0AAAAJ&hl=en/" target="_blank">Xiaoyi Dong</a><sup></sup> |
     <a href="https://yuhangzang.github.io/" target="_blank">Yuhang Zang</a><sup></sup> |
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=sJkqsqkAAAAJ" target="_blank">Yuhang Cao</a><sup></sup> |
