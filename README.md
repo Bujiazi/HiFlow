@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="__assets__/hiflow_logo.png" style="vertical-align: -15px;" :height="50px" width="50px">HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance</h1>
+<h1><img src="__assets__/hiflow_logo.png" style="vertical-align: -30px;" :height="60px" width="60px">HiFlow: Training-free High-Resolution Image Generation with Flow-Aligned Guidance</h1>
 
 <div>
     <a href="https://bujiazi.github.io/" target="_blank">Jiazi Bu*</a><sup></sup> | 
