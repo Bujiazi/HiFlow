@@ -104,7 +104,7 @@ HiFlow can be seamlessly integrated with various LoRA models.
 ## 🎈 Quick Start
 ### Perform high-resolution image generation with Flux.1.0-dev
 ```bash
-python run_hiflow.py
+sh inference.sh
 ```
 Model downloading is automatic.
 
