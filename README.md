@@ -57,7 +57,7 @@
 </div>
 <br>
 
-HiFlow constructs reference flow from low-resolution sampling trajectory to offer initiation alignment, direction alignment, and acceleration alignment, enabling flow-aligned high-resolution image generation. Specifically, HiFlow involves a cascade generation paradigm: First, a virtual reference flow is constructed in the high-resolution space based on the step-wise estimated clean samples of the low-resolution sampling flow. Then, during high-resolution synthesizing, the reference flow offers guidance from sampling initialization, denoising direction, and moving acceleration, aiding in achieving consistent low-frequency patterns, preserving structural features, and maintaining high-fidelity details. Such flow-aligned guidance from the sampling trajectory facilitates better merging of the structure synthesized at the low-resolution scale and the details synthesized at the high-resolution scale, enabling superior generation. 
+HiFlow constructs reference flow from low-resolution sampling trajectory to offer initiation alignment, direction alignment, and acceleration alignment, enabling flow-aligned high-resolution image generation. Specifically, HiFlow involves a cascade generation paradigm: First, a virtual reference flow is constructed in the high-resolution space based on the step-wise estimated clean samples of the low-resolution sampling flow. Then, during high-resolution synthesizing, the reference flow offers guidance from sampling initialization, denoising direction, and moving acceleration, aiding in achieving consistent low-frequency patterns, preserving structural features, and maintaining high-fidelity details.
 
 ## 🔧 Installations
 ### Setup repository and conda environment
@@ -71,6 +71,34 @@ conda activate hiflow
 
 pip install -r requirements.txt
 ```
+### (Optional) Prepare LoRA models
+HiFlow can be seamlessly integrated with various LoRA models. 
+
+<table class="center">
+    <tr>
+    <td><img src="__assets__/aidmafluxpro_1.png"></td>
+    <td><img src="__assets__/aidmafluxpro_2.png"></td>
+    </tr>
+</table>
+<p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/832683/flux-pro-11-style-lora-extreme-detailer-for-flux-illustrious">aidmaFLUXPro</a> (More and Finer Details)</p> 
+
+<table class="center">
+    <tr>
+    <td><img src="__assets__/hyrea_1.png"></td>
+    <td><img src="__assets__/hyrea_2.png"></td>
+    </tr>
+</table>
+<p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/939882/realistic-hyrea-flux-lora">Realistic HyRea</a> (Hyper Realistic Style)</p> 
+
+<table>
+    <tr>
+    <td><img src="__assets__/wukong_1.png"></td>
+    <td><img src="__assets__/wukong_2.png"></td>
+    </tr>
+</table>
+<p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/681691/black-myth-wukong-flux">Black Myth Wukong</a> (T2I Customization)</p>
+
+
 
 
 ## 🎈 Quick Start
@@ -82,6 +110,7 @@ Model downloading is automatic.
 
 
 ## 🖋 News
+- Support LoRA! (2025.5.11)
 - Code (V1.0) and project page are released! (2025.4.17)
 - Paper is available on arXiv! (2025.4.8)
 

@@ -14,6 +14,9 @@ pipe.transformer = transformer
 pipe.scheduler.use_dynamic_shifting = False
 pipe.to(device)
 
+# LoRA can be downloaded from https://civitai.com/models/832683/flux-pro-11-style-lora-extreme-detailer-for-flux-illustrious
+pipe.load_lora_weights("./lora_models/aidmaFLUXPro1.1-FLUX-v0.3.safetensors") # optional
+
 set_seeds(seed)
 
 prompt = "A robot standing in the rain reading newspaper, rusty and worn down, in a dystopian cyberpunk street, photo-realistic, urbanpunk."
