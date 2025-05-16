@@ -88,11 +88,11 @@ HiFlow can be seamlessly integrated with various LoRA models.
 
 <table class="center">
     <tr>
-    <td><img src="__assets__/hyrea_1.png"></td>
-    <td><img src="__assets__/hyrea_2.png"></td>
+    <td><img src="__assets__/aidmarealisticskin_1.png"></td>
+    <td><img src="__assets__/aidmarealisticskin_2.png"></td>
     </tr>
 </table>
-<p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/939882/realistic-hyrea-flux-lora">Realistic HyRea</a> (Hyper Realistic Style)</p> 
+<p style="margin-left: 2em; margin-top: -1em">Model：<a href="https://civitai.com/models/1157318/photorealistic-skin-no-plastic-flux">aidmaRealisticSkin</a> (Realistic Skin)</p> 
 
 <table>
     <tr>
