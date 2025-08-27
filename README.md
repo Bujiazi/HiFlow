@@ -41,7 +41,7 @@
 </details>
 </div>
 
-## 🎨 Gallery
+## 🎨 Gallery for Flux
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="__assets__/hiflow_teaser.png">
 </div>
@@ -49,6 +49,14 @@
 
 <div align="center">
 👁️ For more visual results, go checkout our <a href="https://bujiazi.github.io/hiflow.github.io/" target="_blank">Project Page</a>.
+</div>
+
+## 🎬 Gallery for WAN 2.1
+
+[![]](https://github.com/user-attachments/assets/3b04e6bd-a48f-4bc7-a3ab-d202ba7d4379)
+
+<div align="center">
+  🔥 HiFlow now supports high-resolution video generation! (WAN 2.1 with 1200 x 2080 resolution and 33 frames in the demo above)
 </div>
 
 </div>
@@ -147,5 +155,6 @@ The code is built upon the below repositories, we thank all the contributors for
 * [Flux](https://github.com/black-forest-labs/flux)
 * [I-Max](https://github.com/PRIS-CV/I-Max)
 * [DiffuseHigh](https://github.com/yhyun225/DiffuseHigh)
+* [WAN](https://github.com/Wan-Video/Wan2.1)
 
 
