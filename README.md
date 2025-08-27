@@ -114,11 +114,13 @@ Model downloading is automatic.
 
 
 ## 🖋 News
+- HiFlow for video generation model **WAN series** is on the way, stay tuned! (2025.8.27)
 - Support LoRA! (2025.5.11)
 - Code (V1.0) and project page are released! (2025.4.17)
 - Paper is available on arXiv! (2025.4.8)
 
 ## 🏗️ Todo
+- [ ] 🚀 Release HiFlow for WAN series
 - [x] 🚀 Release the HiFlow code and project page
 - [x] 🚀 Release paper
 
