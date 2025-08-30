@@ -56,7 +56,7 @@
 [![]](https://github.com/user-attachments/assets/3b04e6bd-a48f-4bc7-a3ab-d202ba7d4379)
 
 <div align="center">
-  🔥 HiFlow now supports high-resolution video generation! (WAN 2.1 with 1200 x 2080 resolution and 33 frames in the demo above)
+  🔥 HiFlow now supports High-Resolution Video Generation! (WAN 2.1 14B with 1200 x 2080 resolution and 33 frames in the demo above, on a single GPU!)
 </div>
 
 </div>
