@@ -25,6 +25,11 @@
 (*<b>Equal Contribution</b>)(<sup>†</sup><b>Corresponding Author</b>)
 <br><br>
 
+<div>
+    <sup></sup><strong>NeurIPS 2025</strong> 
+</div>
+</br>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2504.06232-b31b1b.svg)](https://arxiv.org/abs/2504.06232) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/hiflow.github.io/)
 
@@ -122,6 +127,7 @@ Model downloading is automatic.
 
 
 ## 🖋 News
+- HiFlow accepted to <strong>NeurIPS 2025</strong>! (2025.9.18)
 - HiFlow for video generation model **WAN series** is on the way, stay tuned! (2025.8.27)
 - Support LoRA! (2025.5.11)
 - Code (V1.0) and project page are released! (2025.4.17)
